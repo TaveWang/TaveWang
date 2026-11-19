@@ -10,8 +10,9 @@
 
 ## 👋 About Me
 
-<!-- Personal details intentionally left blank. -->
+- 🎓 Master of Computing student at **Australian National University**, specializing in Machine Learning.
+- 🔬 Experience in computer vision, image segmentation, and LLM evaluation.
 
-## 🧰 Languages, Frameworks, Tools & Skills
+## 💻 Programming Languages
 
-<!-- Skills intentionally left blank. -->
+**Python** · **Java** · **SQL** · **Bash/Shell** · **R (basic)**
